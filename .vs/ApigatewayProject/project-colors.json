@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eeca65b1-f013-4c6b-b7d9-c35e4daf1be6": {
+      "ProjectGuid": "eeca65b1-f013-4c6b-b7d9-c35e4daf1be6",
+      "DisplayName": "ApigatewayProject",
+      "ColorIndex": 0
+    },
+    "a8f16053-10fc-4b70-967d-ded37ea95eeb": {
+      "ProjectGuid": "a8f16053-10fc-4b70-967d-ded37ea95eeb",
+      "DisplayName": "TeacherService",
+      "ColorIndex": 1
+    },
+    "0f703e31-6bc5-4f2f-8ab0-af1414495545": {
+      "ProjectGuid": "0f703e31-6bc5-4f2f-8ab0-af1414495545",
+      "DisplayName": "StudentService",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
